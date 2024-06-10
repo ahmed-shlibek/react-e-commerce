@@ -1,5 +1,5 @@
-<h1>this is a project build with react js</h1>
-<h2>i use this tecnology in this prorect:</h2>
+<h1>this project build with react js</h1>
+<h2>فechnologies used in the project :</h2>
 <ul>
   <li>vite</li>
   <li>react js</li>
