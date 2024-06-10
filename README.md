@@ -4,5 +4,8 @@
   <li>vite</li>
   <li>react js</li>
   <li>material ui</li>
+  <li>redux toolkit</li>
+  <li>react router dom</li>
+  <li>axios</li>
 </ul>
 
